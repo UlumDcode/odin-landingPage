@@ -111,6 +111,8 @@ img {
   padding-top: 32px;
   padding-bottom: 72px;
   text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .information h2 {
@@ -143,6 +145,10 @@ img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+.info-text {
+  font-size: 18px;
+  color: #1f2937;
 }
 
 .quote {
